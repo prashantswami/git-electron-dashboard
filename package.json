@@ -3,10 +3,18 @@
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
+   "keywords": [
+    "electron",
+    "git"
+  ],
   "scripts": {
     "start": "electron ."
   },
-  "author": "",
+  "categories": [],
+  "repository": {
+    "url": "https://github.com/prashantswami/git-electron-dashboard"
+  },
+  "author": "prashantswami",
   "license": "ISC",
   "devDependencies": {
     "electron": "^23.1.2"
