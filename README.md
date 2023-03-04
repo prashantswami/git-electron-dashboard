@@ -7,21 +7,21 @@ This ElectronJS application displays different charts related to the Git reposit
 1. Clone the repository using the following command:
 
 ```sh
-    git clone https://github.com/prashantswami/git-electron-dashboard.git
+git clone https://github.com/prashantswami/git-electron-dashboard.git
 ```
 
 2. Install the dependencies using npm:
 
-```
-    npm install
+```sh
+npm install
 ```
 
 ## Usage
 
 1. Start the app using the following command:
 
-```
-    npm start
+```sh
+npm start
 ```
 
 This will launch the Electron app and display the dashboard.
