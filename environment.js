@@ -1,0 +1,1 @@
+module.exports.repoPath = '../../eslint-plugin-test-id';

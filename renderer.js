@@ -1,8 +1,10 @@
 const simpleGit = require('simple-git/promise')
 const Chart = require('chart.js/auto')
+const path = require('./environment')
+
 
 async function getCommits() {
-    const repositoryPath = '../eslint-plugin-test-id'
+    const repositoryPath = path.repoPath
     const git = simpleGit(repositoryPath)
 
     const commitData = {}
