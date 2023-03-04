@@ -6,9 +6,9 @@ This ElectronJS application displays different charts related to the Git reposit
 
 1. Clone the repository using the following command:
 ```
-
+    git clone https://github.com/prashantswami/git-electron-dashboard.git
 ```
-2. nstall the dependencies using npm:
+2. Install the dependencies using npm:
 
 
 ## Usage
@@ -28,3 +28,23 @@ This will launch the Electron app and display the dashboard.
     - Commits by Author: This chart displays the number of commits made by each author in the repository.
 
     - Commits by Date: This chart displays the number of commits made on each date in the repository.
+
+## Contributing
+
+Contributions are always welcome! Please follow the standard Git workflow:
+
+1. Fork the repository.
+
+2. Create a new branch with a descriptive name.
+
+3. Make the desired changes.
+
+4. Commit your changes with a descriptive commit message.
+
+5. Push your changes to your fork.
+
+6. Submit a pull request to the main repository.
+
+## License
+
+This project is licensed under the MIT License.
